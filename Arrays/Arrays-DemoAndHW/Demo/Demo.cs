@@ -109,7 +109,7 @@
             //string reversedNumbersString = string.Join(", ", reversedNumbers);
             //Console.WriteLine(reversedNumbersString);
 
-            ////read from console and parse to int in one row
+            ////read from console and parse to int in one row; spaces between the members of the string
             //int[] numbers = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
 
 
