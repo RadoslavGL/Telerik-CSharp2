@@ -33,7 +33,6 @@
             //if arrN[middle] == xValue -> bool == true and the while condition stops
             //if lower >= upper and arrN[middle] != xValue we are still stopping as this means that value we search for is not in array
             // middle is recalculation for each iteration;
-
             while (upperBorder >= lowerBorder && isInTheArray != true)
             {
                 middle = (lowerBorder + upperBorder) / 2;

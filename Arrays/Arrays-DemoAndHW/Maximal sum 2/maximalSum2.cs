@@ -1,5 +1,6 @@
 ﻿//Write a program that finds the maximal sum of consecutive elements in a given array of N numbers.
 //kadane's algorithm
+//max subarray
 
 namespace Maximal_sum_2
 {
@@ -28,13 +29,10 @@ namespace Maximal_sum_2
                 if (currentSum < 0)
                 {
                     currentSum = arrN[i];
-
                 }
-
                 else
                 {
                     currentSum += arrN[i];
-
                 }
 
                 if (currentSum > maxSum)
