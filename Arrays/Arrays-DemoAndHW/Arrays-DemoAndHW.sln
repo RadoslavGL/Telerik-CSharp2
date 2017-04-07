@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Index of letters", "Index o
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Index of Letters - Simple", "Index of Letters - Simple\Index of Letters - Simple.csproj", "{3B6C7733-0F7F-4DEC-B702-F13620DE372E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find sum in array", "Find sum in array\Find sum in array.csproj", "{D7C640AE-97C0-4324-89BB-9D7676FEF527}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{3B6C7733-0F7F-4DEC-B702-F13620DE372E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B6C7733-0F7F-4DEC-B702-F13620DE372E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B6C7733-0F7F-4DEC-B702-F13620DE372E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7C640AE-97C0-4324-89BB-9D7676FEF527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7C640AE-97C0-4324-89BB-9D7676FEF527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7C640AE-97C0-4324-89BB-9D7676FEF527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7C640AE-97C0-4324-89BB-9D7676FEF527}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
